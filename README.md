@@ -1,6 +1,6 @@
 ### Olá, eu sou Erick Ferraz 👋
 ##
-### Desenvolvedor Full Stack, curioso e entusiasta de tecnologias mobile.
+### Desenvolvedor back-end, curioso e entusiasta de tecnologias mobile.
 
 ##
 
@@ -20,13 +20,17 @@
 <div style="display: inline"><br>
 
   <img align="center" alt="Java" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Kotlin" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+  <img align="center" alt="Kotlin" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
   <img align="center" alt="Spring" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Quarkus" height="70em" width="80em" src="quarkus-svgrepo-com.svg" />
   <img align="center" alt="PostgreSQL" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="JS" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="HTML" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="CSS" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="React" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MongoDB" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Android" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+  <img align="center" alt="Intellij" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+  <img align="center" alt="Git" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="Docker" height="70em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+
   
   
 </div>
